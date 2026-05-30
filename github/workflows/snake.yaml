@@ -8,7 +8,8 @@ on:
 
 jobs:
   build:
-    runs-rate: write
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Files
