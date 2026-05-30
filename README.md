@@ -1,40 +1,111 @@
-# Hi there, I'm Eyad Tamer El Mohandiss! 👋
+<div align= "center">
+<h2>
+  <div id = "badges" align = "center" >
+  
+  ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Charka+Petch&weight=500&height=70&size=40&duration=4500&pause=700&color=F751AF&background=FFDBDB00&center=true&width=700&lines=Welcome+to+Eyad's+workspace+😄)](https://git.io/typing-svg)
+  ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Junior+Data+Scientist;Data+Analyst;AI+Enthusiast" alt="Typing SVG" />
-</p>
+  
+</h2>
 
-## 👩‍💻 About Me
-- 📊 **Data Science & ML**: Actively working with Python, SQL, and exploring advanced LLM architectures (RAG, fine-tuning, and evaluation).
-- 🎓 **Education**: Studying Information Systems at the Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU).
-- ⚙️ **Projects**: Experienced in building automated data solutions, custom database management portals, and backend process integration.
-- 🇪🇸 **Fun Fact**: Dedicated language learner keeping up a daily Spanish learning streak.
+<h3 align="center">Data Scientist & Analyst from Egypt</h3>
+
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2EzaXlwMnphaWF6Z3dmN2pydXZpc2Z1YzluaTM3dTlvanJyMzNwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600"/>
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+ 🚀 **Junior Data Scientist & Analyst** with a strong focus on **SQL**, **Python automation**, and engineering custom data solutions.  
+ 🎓 Studying Information Systems at the **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)**.  
+ 🔄 Designing custom database management tools, parsing client data pipelines, and implementing **automated architectures**.  
+ 🧠 Deeply interested in Large Language Model frameworks, including **RAG architectures, fine-tuning, and LLM evaluation**.
+
+---
 
 ## 📬 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/eyadelmohandiss" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+📧 **eyadmohandiss@gmail.com**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eyadelmohandiss/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-</p>
+</div>
+
+---
 
 ## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+
+<div align="center">
+
+<!-- Row 1: Primary Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+<br><br>
+
+<!-- Row 2: Core Data Science & ML Libraries -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=sklearn" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+<br><br>
+
+<!-- Row 3: Deep Learning & Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=django" height="40" />
+<br><br>
+
+<!-- Row 4: Databases & Query Storage -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+<br><br>
+
+<!-- Row 5: Mobile & Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<br><br>
+
+<!-- Row 6: Infrastructure & Environments -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+<img src="https://skillicons.dev/icons?i=linux" height="40" />
+<img src="https://skillicons.dev/icons?i=tableau" height="40" />
+
+</div>
+
+---
 
 ## 🔥 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eyad-27&show_icons=true&theme=radical&include_all_commits=true" alt="Eyad's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyad-27&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
 
-## 🐍 Contribution Snake
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eyad-27&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Eyad-27&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyad-27&theme=radical&hide_border=false&layout=compact)
+
+---
+
+## 🐍 Snake Eating My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eyad-27/Eyad-27/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eyad-27/Eyad-27/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eyad-27/Eyad-27/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
