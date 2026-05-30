@@ -1,6 +1,5 @@
 # Hi there, I'm Eyad Tamer El Mohandiss! 👋
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Junior+Data+Scientist;Data+Analyst;AI+Enthusiast" alt="Typing SVG" />
 </p>
@@ -13,7 +12,6 @@
 
 ## 📬 Connect with Me
 <p align="left">
-  <!-- Fixed LinkedIn Badge using reliable Shields.io styling -->
   <a href="https://linkedin.com/in/eyadelmohandiss" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -30,13 +28,11 @@
 
 ## 🔥 My GitHub Stats
 <p align="left">
-  <!-- Fixed, robust image rendering structure for Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=Eyad-27&show_icons=true&theme=radical&include_all_commits=true" alt="Eyad's GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyad-27&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ## 🐍 Contribution Snake
-<!-- This will render perfectly once you complete the steps below to activate the automation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eyad-27/Eyad-27/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eyad-27/Eyad-27/output/github-contribution-grid-snake.svg">
