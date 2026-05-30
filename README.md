@@ -1,4 +1,4 @@
-# Hi there, I'm Eyad Ahmed! 👋
+# Hi there, I'm Eyad Tamer El Mohandiss! 👋
 
 <!-- Typing Animation -->
 <p align="center">
